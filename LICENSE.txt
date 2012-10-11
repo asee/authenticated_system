@@ -1,0 +1,1 @@
+Original license unknown. This code is based off acts_as_authenticated_system by technoweenie.

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/nsfgrfp_scoring/!svn/ver/746/trunk/vendor/plugins/restful_authentication/lib/authentication
+END
+by_cookie_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projects/nsfgrfp_scoring/!svn/ver/746/trunk/vendor/plugins/restful_authentication/lib/authentication/by_cookie_token.rb
+END
+by_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/nsfgrfp_scoring/!svn/ver/746/trunk/vendor/plugins/restful_authentication/lib/authentication/by_password.rb
+END

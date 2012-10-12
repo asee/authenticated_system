@@ -1,4 +1,8 @@
 require "authenticated_system/version"
+require "authentication"
+require "authentication/by_cookie_token"
+require "authentication/by_password"
+
 
 module AuthenticatedSystem
   protected
